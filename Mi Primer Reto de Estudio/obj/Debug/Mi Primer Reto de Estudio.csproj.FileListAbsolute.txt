@@ -1,0 +1,16 @@
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi Primer Reto de Estudio.csproj.AssemblyReference.cache
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi_Primer_Reto_de_Estudio.Form1.resources
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi_Primer_Reto_de_Estudio.Properties.Resources.resources
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi Primer Reto de Estudio.csproj.GenerateResource.cache
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi Primer Reto de Estudio.csproj.CoreCompileInputs.cache
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\bin\Debug\Mi Primer Reto de Estudio.exe.config
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\bin\Debug\Mi Primer Reto de Estudio.exe
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\bin\Debug\Mi Primer Reto de Estudio.pdb
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi Primer Reto de Estudio.exe
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi Primer Reto de Estudio.pdb
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi_Primer_Reto_de_Estudio.VenBuscar.resources
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi_Primer_Reto_de_Estudio.VenUser.resources
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi_Primer_Reto_de_Estudio.VenAgregar.resources
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi_Primer_Reto_de_Estudio.VenEditar.resources
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi_Primer_Reto_de_Estudio.VenEliminar.resources
+C:\Users\samee\source\repos\Mi Primer Reto de Estudio\Mi Primer Reto de Estudio\obj\Debug\Mi Primer Reto de Estudio.csproj.SuggestedBindingRedirects.cache
